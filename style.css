@@ -51,12 +51,14 @@ body {
   margin: 4rem;
   cursor: pointer;
   text-transform: uppercase;
-  font-weight: 400;
-  color: grey;
+  font-weight: lighter;
+  font-size: 3em;
+  color: #5c5c5c;
   text-decoration: none;
-  transition: 0.7s;
+  transition: 0.6s;
 }
 
 .button:hover {
   color: white;
+  cursor: none;
 }
