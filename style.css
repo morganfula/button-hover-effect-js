@@ -1,3 +1,8 @@
+/* @font-face {
+  src: url("./fonts/Bellerose.ttf");
+  font-family: "Bellerose";
+} */
+
 html,
 body {
   margin: 0;
@@ -13,6 +18,8 @@ body {
   justify-content: center;
   align-items: center;
   font-family: "Noto Sans JP", sans-serif;
+  /* font-family: "Bellerose";
+  letter-spacing: 3px; */
 }
 
 .cursor,
