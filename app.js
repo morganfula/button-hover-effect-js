@@ -19,7 +19,7 @@ if (cursor) {
     const e = event;
     const t = e.target;
     const f = follow;
-    var c = cursor;
+    const c = cursor;
 
     if (t.tagName == "A") {
       c.style.backgroundColor = "transparent";
